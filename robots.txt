@@ -1,4 +1,0 @@
-Sitemap: https://mekdanismanlik.org/sitemap.xml
-
-User-agent: *
-Disallow:
